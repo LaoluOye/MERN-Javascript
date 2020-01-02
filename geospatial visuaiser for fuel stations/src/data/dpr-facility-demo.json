@@ -1,0 +1,33 @@
+{
+  "stations":
+   [
+    {"name": "Heyden VGC",
+    "address": "VGC",
+    "latitude": 6.4603,
+    "longitude": 3.5548,
+    "description": "a filling station",
+    "station_ID": 1},
+
+    {"name": "ConOil Lekki",
+      "address": "Lekki-Epe Expressway",
+      "latitude": 6.4345,
+      "longitude": 3.4906,
+      "description": "a filling station",
+      "station_ID": 2},
+
+    {"name": "Mobil VI",
+      "address": "VI",
+      "latitude": 6.4367,
+      "longitude": 3.4399,
+      "description": "a filling station",
+      "station_ID": 3},
+
+    {"name": "Forte Oil Lekki",
+      "address": "Lekki",
+      "latitude": 6.4524,
+      "longitude": 3.4198,
+      "description": "a filling station",
+      "station_ID": 4}
+
+  ]
+}
