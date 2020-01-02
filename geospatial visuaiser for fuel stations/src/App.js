@@ -87,7 +87,7 @@ export default function App() {//export function to make the app accessible i.e 
     {/* RETURN THE MAPWRAPPED COMPONENT */}
     <NewFacility />
       <MapWrapped
-        googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyBLElYt7l1VCCCHI5l8nAlsWwYK6xe1KRk`}
+        googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=ENTERKEYHERE`}
         loadingElement={<div style={{ height: `100%` }} />}
         containerElement={<div style={{ height: `100%` }} />}
         mapElement={<div style={{ height: `100%` }} />}
